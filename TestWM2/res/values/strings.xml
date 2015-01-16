@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">TestWM2</string>
+	<string name="success">success result go there</string>
+	<string name="failure">filure result go here</string>
+	<string name="bind">BindService</string>
+	<string name="unbind">UnBindService</string>
+</resources>
